@@ -15,7 +15,7 @@ In PHP there are many tools and frameworks available for testing purposes.
 
 Testing approaches in PHP specific development:
 
-* Test driven develoipment (TDD)
+* Test driven development (TDD)
 
 TDD is a software development process in which you repeat a very short development cycles in which you write code that passes or intentionaly
 failes.
